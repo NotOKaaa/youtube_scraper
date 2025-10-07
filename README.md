@@ -12,7 +12,7 @@ Installation
 
 Clone this repository:
 
-bashgit clone https://github.com/YOUR_USERNAME/youtube-scraper.git
+bashgit clone https://github.com/NotOKaaa/youtube-scraper.git
 cd youtube-scraper
 
 Install dependencies:
